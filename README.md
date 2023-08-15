@@ -1,5 +1,3 @@
-## CRUDcsv
-
 ## CRUD em CSV
 
 ### 🖥️ De forma simples feito na linguagem C# usando CSV:
